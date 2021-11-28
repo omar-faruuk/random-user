@@ -1,0 +1,27 @@
+.user-compo{
+    border: 1px solid lightgray;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 2px 5px 8px black;
+   
+}
+.user-compo h5, .user-compo p{
+    text-align: start;
+    line-height: 5px;
+}
+.user-compo button{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.user-compo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
